@@ -1,0 +1,27 @@
+#apps{
+    background-color: aqua;
+    
+}
+body{
+    text-align: center;
+}
+#games{
+  background-color: cadetblue;  
+  
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: chocolate;
+    margin: 8px auto;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+img{
+    height: 200px;
+    width: 250px;
+      padding: 20px;
+}
